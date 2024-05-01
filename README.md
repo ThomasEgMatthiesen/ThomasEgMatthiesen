@@ -2,4 +2,4 @@
 - 👀 I’m interested in **digital design**, **interactive audio** and **front-end development**.
 - 🌱 I’m currently learning **React**, **Tailwind CSS** and **C++ for Bela**.
 - 🛠️ I’m working on the sound art project **[Genhør](https://www.hoerbar.dk/)**.
-- ✂️ More snippets of code can be found on **[CodePen](https://codepen.io/ThomasEgMatthiesen)**.
+- ✂️ I've got some snippets of code on **[CodePen](https://codepen.io/ThomasEgMatthiesen)**.
